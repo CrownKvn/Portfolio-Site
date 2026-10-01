@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kirawnsan.dev/sitemap.xml
